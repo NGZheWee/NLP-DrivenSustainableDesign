@@ -8,4 +8,4 @@ The repository for this project is organized into several folders, including key
 
 For more detailed information, you can view the full project poster below:
 
-[**The Project Poster (PDF)**](https://github.com/NGZheWee/EngineeringDesignScholarProgram_UCB/blob/main/Sustainable%20Design%20Insights_Derrick.pdf）
+[**The Project Poster (PDF)**](https://github.com/NGZheWee/EngineeringDesignScholarProgram_UCB/blob/main/Sustainable%20Design%20Insights_Derrick.pdf)
