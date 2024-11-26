@@ -1,0 +1,6 @@
+Topic 0: 0_the_tea_it_and
+Top Words: the, tea, it, and, this, to, of, is, for, in
+
+Topic 1: 1_the_it_and_to
+Top Words: the, it, and, to, topper, mattress, on, of, this, is
+

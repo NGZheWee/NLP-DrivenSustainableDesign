@@ -1,0 +1,141 @@
+Topic 0: 0_broken_cap_was_box
+Top Words: broken, cap, was, box, arrived, product, the, damaged, bottles, seal
+
+Topic 1: 1_soap_this_love_it
+Top Words: soap, this, love, it, for, great, price, and, is, the
+
+Topic 2: 2_smell_soap_it_this
+Top Words: smell, soap, it, this, smells, the, great, skin, really, clean
+
+Topic 3: 3_skin_my_it_acne
+Top Words: skin, my, it, acne, sensitive, and, dry, me, out, have
+
+Topic 4: 4_dr_bronner_bronners_and
+Top Words: dr, bronner, bronners, and, the, soap, to, it, is, in
+
+Topic 5: 5_bar_soap_liquid_the
+Top Words: bar, soap, liquid, the, of, bars, is, not, and, peppermint
+
+Topic 6: 6_bottle_oz_size_price
+Top Words: bottle, oz, size, price, for, target, small, the, same, 32
+
+Topic 7: 7_hair_shampoo_my_it
+Top Words: hair, shampoo, my, it, as, and, to, of, use, for
+
+Topic 8: 8_the_broken_was_box
+Top Words: the, broken, was, box, soap, arrived, leaked, and, bottle, with
+
+Topic 9: 9_skin_my_soap_this
+Top Words: skin, my, soap, this, it, face, dry, and, acne, have
+
+Topic 10: 10_body_wash_it_use
+Top Words: body, wash, it, use, for, my, and, to, as, clean
+
+Topic 11: 11_almond_scent_smell_the
+Top Words: almond, scent, smell, the, soap, love, of, it, smells, but
+
+Topic 12: 12_lavender_scent_like_smell
+Top Words: lavender, scent, like, smell, the, but, it, not, and, of
+
+Topic 13: 13_tree_tea_oil_scent
+Top Words: tree, tea, oil, scent, like, the, soap, this, is, smell
+
+Topic 14: 14_peppermint_ding_unscented_smell
+Top Words: peppermint, ding, unscented, smell, clean, the, strong, you, this, one
+
+Topic 15: 15_pump_broken_the_was
+Top Words: pump, broken, the, was, to, arrived, it, bottle, return, box
+
+Topic 16: 16_rose_roses_scent_smell
+Top Words: rose, roses, scent, smell, but, like, dr, it, smells, bronner
+
+Topic 17: 17_pack_received_bar_only
+Top Words: pack, received, bar, only, bars, one, ordered, again, clearly, got
+
+Topic 18: 18_dispenser_pump_soap_the
+Top Words: dispenser, pump, soap, the, that, clog, to, it, in, of
+
+Topic 19: 19_product_great_buy_useful
+Top Words: product, great, buy, useful, good, excellent, value, love, awesomeness, very
+
+Topic 20: 20_lather_lathers_well_squeaky
+Top Words: lather, lathers, well, squeaky, clean, great, nice, good, it, skin
+
+Topic 21: 21_plants_spray_aphids_bugs
+Top Words: plants, spray, aphids, bugs, for, garden, to, pests, on, in
+
+Topic 22: 22_ok_excellent_okay_great
+Top Words: ok, excellent, okay, great, good, everything, ready, above, works, impressed
+
+Topic 23: 23_bottle_oz_bottles_tiny
+Top Words: bottle, oz, bottles, tiny, price, 12, 24, misleading, the, size
+
+Topic 24: 24_smells_good_love_smell
+Top Words: smells, good, love, smell, scent, fragrance, lovely, great, youve, jewels
+
+Topic 25: 25_size_smaller_price_small
+Top Words: size, smaller, price, small, thought, check, deceptive, expected, loofah, than
+
+Topic 26: 26_peppermint_smell_mint_soap
+Top Words: peppermint, smell, mint, soap, the, you, it, after, leave, if
+
+Topic 27: 27_laundry_detergent_homemade_use
+Top Words: laundry, detergent, homemade, use, for, shred, make, and, well, grate
+
+Topic 28: 28_dr_bronners_years_bronner
+Top Words: dr, bronners, years, bronner, love, products, damaged, favorite, smashed, have
+
+Topic 29: 29_expensive_too_special_overpriced
+Top Words: expensive, too, special, overpriced, cost, pricey, but, such, corners, road
+
+Topic 30: 30_label_support_are_the
+Top Words: label, support, are, the, all, to, his, of, actually, is
+
+Topic 31: 31_scent_bottle_amazon_previous
+Top Words: scent, bottle, amazon, previous, this, not, larger, size, one, was
+
+Topic 32: 32_cleans_well_clean_great
+Top Words: cleans, well, clean, great, good, smells, cleaning, refreshing, pleasant, smelling
+
+Topic 33: 33_love_sent_liked_robot
+Top Words: love, sent, liked, robot, honoring, favorite, dear, reviewing, it, user
+
+Topic 34: 34_castile_soap_of_and
+Top Words: castile, soap, of, and, with, in, that, the, soaps, to
+
+Topic 35: 35_feel_make_cool_skin
+Top Words: feel, make, cool, skin, refreshing, words, my, subtle, smells, on
+
+Topic 36: 36_watered_down_product_seems
+Top Words: watered, down, product, seems, thicker, at, purchased, was, much, as
+
+Topic 37: 37_baby_her_for_eyes
+Top Words: baby, her, for, eyes, and, babies, skin, my, he, sensitive
+
+Topic 38: 38_years_private_wife_refreshed
+Top Words: years, private, wife, refreshed, parts, been, have, week, quite, sope
+
+Topic 39: 39_hand_hands_doesn_tacky
+Top Words: hand, hands, doesn, tacky, soap, wash, dishes, as, work, grape
+
+Topic 40: 40_watery_water_like_hyped
+Top Words: watery, water, like, hyped, is, consistency, to, gallon, it, why
+
+Topic 41: 41_lemongrass_lime_the_of
+Top Words: lemongrass, lime, the, of, brown, like, its, me, my, which
+
+Topic 42: 42_peppermint_dr_bronner_you
+Top Words: peppermint, dr, bronner, you, soap, the, on, and, almond, for
+
+Topic 43: 43_plastic_refill_recycle_consumption
+Top Words: plastic, refill, recycle, consumption, recycling, bottle, home, boxes, this, carton
+
+Topic 44: 44_great_awesome_soap_soapis
+Top Words: great, awesome, soap, soapis, good, soapy, delivered, says, quickly, wasn
+
+Topic 45: 45_smell_hated_cancel_care
+Top Words: smell, hated, cancel, care, hyped, ur, stinky, dissolved, 11, realize
+
+Topic 46: 46_cpap_my_that_to
+Top Words: cpap, my, that, to, and, it, skin, with, soaps, the
+

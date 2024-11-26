@@ -1,0 +1,12 @@
+Topic 0: 0_the_and_it_to
+Top Words: the, and, it, to, light, on, in, they, them, is
+
+Topic 1: 1_the_to_it_is
+Top Words: the, to, it, is, and, not, but, was, for, easy
+
+Topic 2: 2_the_coffee_filters_of
+Top Words: the, coffee, filters, of, filter, and, machine, for, these, is
+
+Topic 3: 3_ok_good_okay_positive
+Top Words: ok, good, okay, positive, 100, all, like, great, it, 
+

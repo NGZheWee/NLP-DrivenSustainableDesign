@@ -1,0 +1,69 @@
+Topic 0: 0_taste_flavor_good_great
+Top Words: taste, flavor, good, great, it, the, and, flavors, product, very
+
+Topic 1: 1_mate_yerba_the_to
+Top Words: mate, yerba, the, to, it, of, and, coffee, that, tea
+
+Topic 2: 2_sleep_me_night_bed
+Top Words: sleep, me, night, bed, help, to, it, tea, this, before
+
+Topic 3: 3_coconut_oil_use_hair
+Top Words: coconut, oil, use, hair, it, my, and, for, this, skin
+
+Topic 4: 4_tea_this_it_flavor
+Top Words: tea, this, it, flavor, is, taste, and, the, to, of
+
+Topic 5: 5_chocolate_dark_theo_video
+Top Words: chocolate, dark, theo, video, the, bars, and, to, it, bar
+
+Topic 6: 6_tea_was_bag_the
+Top Words: tea, was, bag, the, to, bags, in, it, this, of
+
+Topic 7: 7_pukka_tea_teas_the
+Top Words: pukka, tea, teas, the, of, and, this, one, love, to
+
+Topic 8: 8_arrived_was_product_return
+Top Words: arrived, was, product, return, broken, came, open, damaged, box, item
+
+Topic 9: 9_mint_tea_of_and
+Top Words: mint, tea, of, and, it, mints, minty, for, is, teas
+
+Topic 10: 10_jar_oil_glass_the
+Top Words: jar, oil, glass, the, coconut, and, plastic, it, that, broken
+
+Topic 11: 11_boxes_one_received_only
+Top Words: boxes, one, received, only, box, three, pack, order, 20, of
+
+Topic 12: 12_gift_box_the_tea
+Top Words: gift, box, the, tea, flavors, teas, packaging, beautiful, is, of
+
+Topic 13: 13_date_expiration_expires_months
+Top Words: date, expiration, expires, months, received, manufactured, product, it, the, was
+
+Topic 14: 14_peppermint_licorice_tea_sweet
+Top Words: peppermint, licorice, tea, sweet, is, the, sweetness, and, this, really
+
+Topic 15: 15_chai_chamomile_it_tea
+Top Words: chai, chamomile, it, tea, is, and, lovely, favorite, not, of
+
+Topic 16: 16_licorice_root_box_teas
+Top Words: licorice, root, box, teas, like, the, all, every, that, overpowering
+
+Topic 17: 17_licorice_they_all_like
+Top Words: licorice, they, all, like, the, it, smell, wish, was, flavors
+
+Topic 18: 18_ok_good_sorry_seriously
+Top Words: ok, good, sorry, seriously, stay, away, says, say, stuff, no
+
+Topic 19: 19_love_tea_this_hubby
+Top Words: love, tea, this, hubby, again, list, hand, adding, coming, customer
+
+Topic 20: 20_honey_ginger_lemon_add
+Top Words: honey, ginger, lemon, add, tea, it, steeping, good, flavor, like
+
+Topic 21: 21_tea_great_good_missed
+Top Words: tea, great, good, missed, nice, dinner, special, effects, ok, maybe
+
+Topic 22: 22_tea_at_great_england
+Top Words: tea, at, great, england, harder, in, pound, stores, it, will
+

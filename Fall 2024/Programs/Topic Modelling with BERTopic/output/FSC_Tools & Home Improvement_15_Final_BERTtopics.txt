@@ -1,0 +1,72 @@
+Topic 0: 0_tape_it_paint_the
+Top Words: tape, it, paint, the, to, this, off, and, of, on
+
+Topic 1: 1_shelves_the_shelf_they
+Top Words: shelves, the, shelf, they, to, and, are, them, look, wall
+
+Topic 2: 2_coffee_filters_these_they
+Top Words: coffee, filters, these, they, grounds, the, and, of, to, are
+
+Topic 3: 3_filters_great_these_they
+Top Words: filters, great, these, they, good, filter, as, name, are, the
+
+Topic 4: 4_filter_fit_the_these
+Top Words: filter, fit, the, these, filters, but, they, it, to, not
+
+Topic 5: 5_purifier_air_fit_my
+Top Words: purifier, air, fit, my, fits, perfectly, holmes, it, the, perfect
+
+Topic 6: 6_hepa_filters_filter_carbon
+Top Words: hepa, filters, filter, carbon, the, oem, and, air, pre, of
+
+Topic 7: 7_smell_burning_filters_air
+Top Words: smell, burning, filters, air, the, these, chemical, smells, and, filter
+
+Topic 8: 8_price_good_great_very
+Top Words: price, good, great, very, priced, works, overpriced, value, but, quality
+
+Topic 9: 9_fit_perfect_fits_great
+Top Words: fit, perfect, fits, great, right, was, original, works, seems, price
+
+Topic 10: 10_work_they_these_are
+Top Words: work, they, these, are, great, them, ones, good, were, price
+
+Topic 11: 11_winix_filter_the_5500
+Top Words: winix, filter, the, 5500, charcoal, original, and, air, of, is
+
+Topic 12: 12_ok_nice_thank_10
+Top Words: ok, nice, thank, 10, good, dpecial, very, combination, wow, cool
+
+Topic 13: 13_as_name_brand_original
+Top Words: as, name, brand, original, price, works, levoit, oem, good, knock
+
+Topic 14: 14_works_great_work_worked
+Top Words: works, great, work, worked, well, later, months, needed, first, fine
+
+Topic 15: 15_air_levoit_filters_replacement
+Top Words: air, levoit, filters, replacement, purifier, the, core, 300, scene, in
+
+Topic 16: 16_delivery_fast_arrived_ordered
+Top Words: delivery, fast, arrived, ordered, described, fair, as, very, multiple, item
+
+Topic 17: 17_air_room_purifier_for
+Top Words: air, room, purifier, for, in, small, our, size, my, personal
+
+Topic 18: 18_machine_fit_fits_my
+Top Words: machine, fit, fits, my, price, expected, doesn, very, hpa300, it
+
+Topic 19: 19_light_red_change_filter
+Top Words: light, red, change, filter, still, the, since, not, flashing, to
+
+Topic 20: 20_product_excellent_good_great
+Top Words: product, excellent, good, great, info, item, won, stuff, anything, nice
+
+Topic 21: 21_air_you_dust_pet
+Top Words: air, you, dust, pet, allergens, have, filter, pets, this, difference
+
+Topic 22: 22_pre_cut_fit_huge
+Top Words: pre, cut, fit, huge, sheets, that, to, filter, filters, prefilter
+
+Topic 23: 23_described_advertised_as_job
+Top Words: described, advertised, as, job, works, expected, supposed, done, exactly, worked
+

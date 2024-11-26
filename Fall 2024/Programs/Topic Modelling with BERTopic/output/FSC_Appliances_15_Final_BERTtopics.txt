@@ -1,0 +1,66 @@
+Topic 0: 0_coffee_the_these_of
+Top Words: coffee, the, these, of, and, filters, to, they, for, in
+
+Topic 1: 1_filters_great_the_good
+Top Words: filters, great, the, good, for, filter, are, and, they, to
+
+Topic 2: 2_smell_the_it_and
+Top Words: smell, the, it, and, this, odor, of, filter, chemical, burning
+
+Topic 3: 3_fit_fits_perfect_great
+Top Words: fit, fits, perfect, great, works, it, perfectly, price, well, and
+
+Topic 4: 4_winix_filter_the_this
+Top Words: winix, filter, the, this, it, my, to, filters, air, and
+
+Topic 5: 5_and_these_have_air
+Top Words: and, these, have, air, dust, in, you, the, filters, for
+
+Topic 6: 6_fit_filter_fits_perfectly
+Top Words: fit, filter, fits, perfectly, perfect, good, the, filters, as, to
+
+Topic 7: 7_hepa_the_filter_and
+Top Words: hepa, the, filter, and, it, filters, you, to, of, replacement
+
+Topic 8: 8_as_good_quality_works
+Top Words: as, good, quality, works, replacement, original, well, the, oem, product
+
+Topic 9: 9_purifier_air_fits_it
+Top Words: purifier, air, fits, it, my, perfectly, works, fit, perfect, levoit
+
+Topic 10: 10_they_work_these_them
+Top Words: they, work, these, them, well, are, you, and, price, ve
+
+Topic 11: 11_it_black_charcoal_filter
+Top Words: it, black, charcoal, filter, but, little, the, size, to, fits
+
+Topic 12: 12_air_purifier_and_my
+Top Words: air, purifier, and, my, are, the, filters, replacement, these, purifiers
+
+Topic 13: 13_ok_product_good_great
+Top Words: ok, product, good, great, excellent, very, traps, dpecial, wow, info
+
+Topic 14: 14_fast_delivery_arrived_shipping
+Top Words: fast, delivery, arrived, shipping, box, pleased, was, very, product, orders
+
+Topic 15: 15_price_good_value_great
+Top Words: price, good, value, great, is, money, quantity, your, little, trick
+
+Topic 16: 16_install_easy_to_great
+Top Words: install, easy, to, great, and, works, value, needed, child, ans
+
+Topic 17: 17_machine_unit_fit_my
+Top Words: machine, unit, fit, my, machines, work, it, they, and, great
+
+Topic 18: 18_works_work_great_working
+Top Words: works, work, great, working, doesn, roreturn, socheap, recommand, th, ones
+
+Topic 19: 19_light_red_the_change
+Top Words: light, red, the, change, still, to, not, filter, since, off
+
+Topic 20: 20_described_expected_what_exactly
+Top Words: described, expected, what, exactly, as, accurate, exp, job, met, complain
+
+Topic 21: 21_they_fit_perfectly_perfect
+Top Words: they, fit, perfectly, perfect, close, originals, were, them, would, model
+

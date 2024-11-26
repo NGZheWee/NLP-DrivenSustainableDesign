@@ -1,0 +1,6 @@
+Topic 0: 0_the_is_coffee_for
+Top Words: the, is, coffee, for, and, of, filters, size, it, to
+
+Topic 1: 1_the_it_and_to
+Top Words: the, it, and, to, light, on, in, is, for, they
+

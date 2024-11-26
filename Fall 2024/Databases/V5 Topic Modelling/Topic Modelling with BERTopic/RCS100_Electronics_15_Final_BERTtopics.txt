@@ -1,0 +1,15 @@
+Topic 0: 0_the_to_it_and
+Top Words: the, to, it, and, this, my, usb, for, is, with
+
+Topic 1: 1_case_the_it_and
+Top Words: case, the, it, and, is, ipad, this, to, my, for
+
+Topic 2: 2_case_airpods_the_and
+Top Words: case, airpods, the, and, it, is, to, with, magsafe, of
+
+Topic 3: 3_backdrop_is_curtains_fabric
+Top Words: backdrop, is, curtains, fabric, for, color, the, as, it, and
+
+Topic 4: 4_video_the_product_00
+Top Words: video, the, product, 00, off, time, play, is, shows, compares
+

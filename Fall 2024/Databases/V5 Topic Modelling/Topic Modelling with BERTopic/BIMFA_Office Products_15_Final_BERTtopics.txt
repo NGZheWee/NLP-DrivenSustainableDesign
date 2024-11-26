@@ -1,0 +1,9 @@
+Topic 0: 0_the_to_it_and
+Top Words: the, to, it, and, is, of, for, this, my, that
+
+Topic 1: 1_chair_the_and_it
+Top Words: chair, the, and, it, to, is, this, for, in, of
+
+Topic 2: 2_small_to__
+Top Words: small, to, , , , , , , , 
+

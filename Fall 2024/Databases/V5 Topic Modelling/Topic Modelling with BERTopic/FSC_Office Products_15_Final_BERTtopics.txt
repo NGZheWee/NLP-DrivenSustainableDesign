@@ -1,0 +1,135 @@
+Topic 0: 0_was_box_the_paper
+Top Words: was, box, the, paper, package, damaged, of, it, open, opened
+
+Topic 1: 1_towels_towel_hand_these
+Top Words: towels, towel, hand, these, boxes, they, bathroom, the, and, box
+
+Topic 2: 2_brushes_paint_painting_brush
+Top Words: brushes, paint, painting, brush, they, these, bristles, are, them, for
+
+Topic 3: 3_sticky_notes_stick_they
+Top Words: sticky, notes, stick, they, these, colors, are, note, them, post
+
+Topic 4: 4_tabs_bible_missing_books
+Top Words: tabs, bible, missing, books, the, them, to, are, tab, they
+
+Topic 5: 5_reams_ream_of_the
+Top Words: reams, ream, of, the, paper, was, box, in, to, one
+
+Topic 6: 6_printer_jams_jam_paper
+Top Words: printer, jams, jam, paper, pages, this, with, print, my, it
+
+Topic 7: 7_cardstock_card_stock_this
+Top Words: cardstock, card, stock, this, cards, it, for, is, my, and
+
+Topic 8: 8_quality_good_paper_is
+Top Words: quality, good, paper, is, nice, great, high, ok, everyday, for
+
+Topic 9: 9_lb_20_paper_20lb
+Top Words: lb, 20, paper, 20lb, is, this, it, than, 24, thin
+
+Topic 10: 10_quality_price_good_is
+Top Words: quality, price, good, is, for, win, poor, but, great, high
+
+Topic 11: 11_notebook_journal_page_contents
+Top Words: notebook, journal, page, contents, pages, table, spiral, the, and, date
+
+Topic 12: 12_sided_ink_through_printing
+Top Words: sided, ink, through, printing, print, double, sides, on, paper, highlighters
+
+Topic 13: 13_white_bright_cream_yellow
+Top Words: white, bright, cream, yellow, not, it, color, is, neenah, advertised
+
+Topic 14: 14_colors_color_nice_love
+Top Words: colors, color, nice, love, easy, vibrant, cute, variety, bright, very
+
+Topic 15: 15_thin_paper_too_thicker
+Top Words: thin, paper, too, thicker, it, is, thinner, for, printing, this
+
+Topic 16: 16_white_bright_yellow_is
+Top Words: white, bright, yellow, is, this, color, paper, off, yellowish, it
+
+Topic 17: 17_price_quality_paper_good
+Top Words: price, quality, paper, good, value, great, thermal, ago, quantity, lies
+
+Topic 18: 18_good_ok_nice_prefect
+Top Words: good, ok, nice, prefect, nuf, choices, its, perfect, okay, said
+
+Topic 19: 19_fast_shipping_order_great
+Top Words: fast, shipping, order, great, product, amazon, prime, stores, price, again
+
+Topic 20: 20_they_cheaply_work_these
+Top Words: they, cheaply, work, these, very, use, them, break, breaking, made
+
+Topic 21: 21_white_cardstock_bright_card
+Top Words: white, cardstock, bright, card, stock, color, is, this, cream, it
+
+Topic 22: 22_boxes_box_were_empty
+Top Words: boxes, box, were, empty, tissues, crushed, inside, six, one, control
+
+Topic 23: 23_white_bright_is_paper
+Top Words: white, bright, is, paper, it, my, nice, printer, that, not
+
+Topic 24: 24_paper_say_like_what
+Top Words: paper, say, like, what, works, it, do, can, else, yup
+
+Topic 25: 25_printer_hp_works_with
+Top Words: printer, hp, works, with, my, inkjet, smart, software, printers, great
+
+Topic 26: 26_11_size_standard_inches
+Top Words: 11, size, standard, inches, it, is, longer, not, fit, paper
+
+Topic 27: 27_product_good_bp_recommend
+Top Words: product, good, bp, recommend, works, love, inexpensive, pleased, continue, results
+
+Topic 28: 28_hp_epson_paper_it
+Top Words: hp, epson, paper, it, ink, and, with, quality, this, me
+
+Topic 29: 29_colors_like_your_color
+Top Words: colors, like, your, color, projects, markers, to, quality, paper, great
+
+Topic 30: 30_price_printer_money_good
+Top Words: price, printer, money, good, saved, great, quality, ink, drive, my
+
+Topic 31: 31_printer_paper_it_recipes
+Top Words: printer, paper, it, recipes, printing, patterns, print, else, fire, animals
+
+Topic 32: 32_hammermill_copy_our_printing
+Top Words: hammermill, copy, our, printing, paper, lb, 20, is, quality, prints
+
+Topic 33: 33_brightness_24_weight_97
+Top Words: brightness, 24, weight, 97, lb, for, paper, and, the, laser
+
+Topic 34: 34_thin_too_handles_very
+Top Words: thin, too, handles, very, good, really, guess, robbed, packets, thickness
+
+Topic 35: 35_easy_use_projects_personal
+Top Words: easy, use, projects, personal, convenient, for, work, read, dyii, itit
+
+Topic 36: 36_a4_size_fit_standard
+Top Words: a4, size, fit, standard, paper, papers, regular, it, is, doesn
+
+Topic 37: 37_blue_description_white_says
+Top Words: blue, description, white, says, paper, is, it, anywhere, written, packaging
+
+Topic 38: 38_video_loaded_media_could
+Top Words: video, loaded, media, could, play, currently, off, the, ratechapterschaptersdescriptionsdescriptions, showcases
+
+Topic 39: 39_price_good_deal_stocked
+Top Words: price, good, deal, stocked, great, lower, seller, please, pay, expensive
+
+Topic 40: 40_works_supposed_perfectly_worked
+Top Words: works, supposed, perfectly, worked, valentine, expected, functioned, created, as, advertised
+
+Topic 41: 41_value_money_great_excellent
+Top Words: value, money, great, excellent, good, values, earned, for, grandchildren, opinion
+
+Topic 42: 42_described_as_just_expected
+Top Words: described, as, just, expected, smug, less, costly, expectation, pleasantly, surprised
+
+Topic 43: 43_printer_paper_jams_print
+Top Words: printer, paper, jams, print, feeder, it, up, my, hp, keeps
+
+Topic 44: 44_jam_jams_ream_reams
+Top Words: jam, jams, ream, reams, out, we, paper, hammermill, that, the
+

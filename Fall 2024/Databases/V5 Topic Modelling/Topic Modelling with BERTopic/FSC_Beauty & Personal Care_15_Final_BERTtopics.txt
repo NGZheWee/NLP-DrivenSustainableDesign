@@ -1,0 +1,114 @@
+Topic 0: 0_wipes_makeup_these_face
+Top Words: wipes, makeup, these, face, they, wipe, to, and, my, are
+
+Topic 1: 1_shower_smell_scent_scents
+Top Words: shower, smell, scent, scents, the, fragrance, in, steamers, you, strong
+
+Topic 2: 2_bristles_brush_it_the
+Top Words: bristles, brush, it, the, this, skin, to, and, but, dry
+
+Topic 3: 3_toothbrush_toothbrushes_teeth_bristles
+Top Words: toothbrush, toothbrushes, teeth, bristles, the, mouth, of, gums, to, bamboo
+
+Topic 4: 4_tissues_puffs_tissue_box
+Top Words: tissues, puffs, tissue, box, boxes, the, soft, are, kleenex, in
+
+Topic 5: 5_neutrogena_wipes_makeup_skin
+Top Words: neutrogena, wipes, makeup, skin, and, for, the, cleansing, these, they
+
+Topic 6: 6_comb_beard_brush_it
+Top Words: comb, beard, brush, it, the, is, he, set, with, nice
+
+Topic 7: 7_hair_thick_brush_it
+Top Words: hair, thick, brush, it, long, wavy, have, my, this, for
+
+Topic 8: 8_wipes_these_were_dry
+Top Words: wipes, these, were, dry, the, to, out, package, love, arabic
+
+Topic 9: 9_dried_dry_out_were
+Top Words: dried, dry, out, were, they, old, these, package, them, are
+
+Topic 10: 10_delivery_good_these_product
+Top Words: delivery, good, these, product, service, we, great, buy, always, for
+
+Topic 11: 11_smell_brush_smells_it
+Top Words: smell, brush, smells, it, hair, the, like, and, after, washing
+
+Topic 12: 12_soft_thickness_be_they
+Top Words: soft, thickness, be, they, as, are, these, buy, and, not
+
+Topic 13: 13_hair_brush_tangles_it
+Top Words: hair, brush, tangles, it, this, my, scalp, is, through, as
+
+Topic 14: 14_sensitive_skin_burning_my
+Top Words: sensitive, skin, burning, my, and, these, face, have, eyes, to
+
+Topic 15: 15_makeup_remove_they_these
+Top Words: makeup, remove, they, these, face, my, cloths, skin, use, without
+
+Topic 16: 16_makeup_eye_off_eyes
+Top Words: makeup, eye, off, eyes, removes, my, taking, it, does, remover
+
+Topic 17: 17_boar_hair_bristle_brush
+Top Words: boar, hair, bristle, brush, bristles, it, boars, plastic, the, this
+
+Topic 18: 18_ear_ears_cotton_tip
+Top Words: ear, ears, cotton, tip, tips, your, stick, you, they, these
+
+Topic 19: 19_travel_traveling_individual_for
+Top Words: travel, traveling, individual, for, pack, open, in, size, bag, these
+
+Topic 20: 20_product_good_great_value
+Top Words: product, good, great, value, market, excellent, best, price, satisficed, service
+
+Topic 21: 21_mascara_waterproof_remove_off
+Top Words: mascara, waterproof, remove, off, not, it, makeup, they, skin, does
+
+Topic 22: 22_video_00_product_setup
+Top Words: video, 00, product, setup, showcases, guides, unpacked, compares, ratechapterschaptersdescriptionsdescriptions, selectedcaptionscaptions
+
+Topic 23: 23_hair_pulls_through_out
+Top Words: hair, pulls, through, out, rips, it, brush, this, grossed, makes
+
+Topic 24: 24_sticks_bamboo_break_stick
+Top Words: sticks, bamboo, break, stick, breaks, brittle, easily, friendly, them, fragile
+
+Topic 25: 25_swabs_cotton_plastic_sticks
+Top Words: swabs, cotton, plastic, sticks, bamboo, are, these, more, as, is
+
+Topic 26: 26_wipes_pack_received_16
+Top Words: wipes, pack, received, 16, description, 25, only, packages, package, of
+
+Topic 27: 27_big_brush_nice_handle
+Top Words: big, brush, nice, handle, small, awkward, too, smaller, hand, shape
+
+Topic 28: 28_good_ok_terrible_great
+Top Words: good, ok, terrible, great, perfect, nice, it, , , 
+
+Topic 29: 29_pack_received_only_packs
+Top Words: pack, received, only, packs, paid, ordered, supposed, one, was, six
+
+Topic 30: 30_refills_container_refill_included
+Top Words: refills, container, refill, included, misleading, pic, show, product, listing, the
+
+Topic 31: 31_quality_poor_good_it
+Top Words: quality, poor, good, it, ok, kent, defect, great, backup, surprisingly
+
+Topic 32: 32_works_well_saves_efficiently
+Top Words: works, well, saves, efficiently, great, cold, described, stuff, exactly, durable
+
+Topic 33: 33_cotton_ends_not_risking
+Top Words: cotton, ends, not, risking, innovation, transparent, skimpy, absorbing, poked, outperforming
+
+Topic 34: 34_tips_qtips_tip_box
+Top Words: tips, qtips, tip, box, these, they, shaft, fluff, none, tightly
+
+Topic 35: 35_bag_bags_20_19
+Top Words: bag, bags, 20, 19, gift, party, only, there, ridiculous, card
+
+Topic 36: 36_bamboo_hair_brush_has
+Top Words: bamboo, hair, brush, has, is, not, my, it, this, made
+
+Topic 37: 37_cracked_wood_already_weeks
+Top Words: cracked, wood, already, weeks, moldy, split, pieces, within, broke, detach
+

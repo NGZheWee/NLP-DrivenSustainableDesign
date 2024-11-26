@@ -1,0 +1,9 @@
+Topic 0: 0_the_to_it_and
+Top Words: the, to, it, and, is, this, of, for, in, not
+
+Topic 1: 1_white_it_is_the
+Top Words: white, it, is, the, grey, color, black, and, light, but
+
+Topic 2: 2_video_the_it_you
+Top Words: video, the, it, you, product, to, off, time, is, media
+

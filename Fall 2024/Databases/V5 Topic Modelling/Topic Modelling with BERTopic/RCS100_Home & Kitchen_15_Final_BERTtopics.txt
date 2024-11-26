@@ -1,0 +1,15 @@
+Topic 0: 0_the_and_they_to
+Top Words: the, and, they, to, are, curtains, not, it, these, is
+
+Topic 1: 1_and_the_set_pans
+Top Words: and, the, set, pans, to, pots, handle, of, this, it
+
+Topic 2: 2_loaded_media_the_could
+Top Words: loaded, media, the, could, not, be, and, it, in, to
+
+Topic 3: 3_table_it_tablecloth_and
+Top Words: table, it, tablecloth, and, cloth, the, for, to, this, is
+
+Topic 4: 4_video_product_the_00
+Top Words: video, product, the, 00, off, time, is, liveliveremaining, loading, videoplaymutecurrent
+

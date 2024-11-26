@@ -1,0 +1,6 @@
+Topic 0: 0_the_coffee_of_for
+Top Words: the, coffee, of, for, and, to, is, filters, this, they
+
+Topic 1: 1_is_the_product_as
+Top Words: is, the, product, as, do, good, for, value, it, item
+

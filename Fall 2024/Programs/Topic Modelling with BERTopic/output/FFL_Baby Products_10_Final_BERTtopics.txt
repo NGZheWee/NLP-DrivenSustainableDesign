@@ -1,0 +1,6 @@
+Topic 0: 0_it_the_and_to
+Top Words: it, the, and, to, soap, this, is, my, for, of
+
+Topic 1: 1_bar_one_only_pack
+Top Words: bar, one, only, pack, received, of, soap, bars, ordered, this
+

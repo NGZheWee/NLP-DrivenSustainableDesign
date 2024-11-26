@@ -1,0 +1,51 @@
+Topic 0: 0_and_to_the_it
+Top Words: and, to, the, it, keyboard, desk, my, is, for, this
+
+Topic 1: 1_the_to_is_monitor
+Top Words: the, to, is, monitor, it, arm, and, of, tilt, that
+
+Topic 2: 2_product_it_good_love
+Top Words: product, it, good, love, was, service, not, great, buy, and
+
+Topic 3: 3_easy_to_assemble_very
+Top Words: easy, to, assemble, very, it, and, but, is, good, the
+
+Topic 4: 4_monitor_hold_it_49
+Top Words: monitor, hold, it, 49, lbs, to, pounds, the, this, not
+
+Topic 5: 5_mount_it_the_and
+Top Words: mount, it, the, and, is, to, wall, monitor, this, of
+
+Topic 6: 6_the_monitors_to_arm
+Top Words: the, monitors, to, arm, arms, of, and, desk, side, for
+
+Topic 7: 7_g9_the_it_monitor
+Top Words: g9, the, it, monitor, to, is, arm, for, odyssey, this
+
+Topic 8: 8_it_monitors_stand_and
+Top Words: it, monitors, stand, and, the, product, monitor, quality, of, is
+
+Topic 9: 9_arms_these_of_are
+Top Words: arms, these, of, are, and, the, for, with, it, to
+
+Topic 10: 10_it_monitors_monitor_34
+Top Words: it, monitors, monitor, 34, this, and, the, to, you, that
+
+Topic 11: 11_cintiq_the_it_to
+Top Words: cintiq, the, it, to, tablet, for, of, my, arm, and
+
+Topic 12: 12_the_it_and_was
+Top Words: the, it, and, was, to, screws, screw, in, of, for
+
+Topic 13: 13_the_is_it_arm
+Top Words: the, is, it, arm, monitor, to, 49, and, ergotron, my
+
+Topic 14: 14_pole_the_height_to
+Top Words: pole, the, height, to, they, that, monitor, you, it, of
+
+Topic 15: 15_the_to_my_arm
+Top Words: the, to, my, arm, of, and, clamp, desk, for, ergotron
+
+Topic 16: 16_ergotron_how_their_to
+Top Words: ergotron, how, their, to, and, was, they, in, sitting, my
+

@@ -1,0 +1,177 @@
+Topic 0: 0_brushes_paint_brush_painting
+Top Words: brushes, paint, brush, painting, bristles, for, set, the, them, and
+
+Topic 1: 1_viva_cloth_like_towels
+Top Words: viva, cloth, like, towels, paper, not, signature, the, are, soft
+
+Topic 2: 2_hands_dry_hand_towel
+Top Words: hands, dry, hand, towel, bathroom, your, towels, to, use, my
+
+Topic 3: 3_parchment_baking_it_cookies
+Top Words: parchment, baking, it, cookies, paper, this, is, unbleached, cookie, for
+
+Topic 4: 4_liners_muffins_muffin_cupcake
+Top Words: liners, muffins, muffin, cupcake, cupcakes, liner, cups, batter, look, these
+
+Topic 5: 5_damaged_box_was_open
+Top Words: damaged, box, was, open, package, came, opened, arrived, boxes, product
+
+Topic 6: 6_boxes_colors_decor_new
+Top Words: boxes, colors, decor, new, designs, ugly, patterns, design, bright, neutral
+
+Topic 7: 7_soft_softness_sandpaper_as
+Top Words: soft, softness, sandpaper, as, not, like, very, softer, these, stiff
+
+Topic 8: 8_rolls_roll_paper_are
+Top Words: rolls, roll, paper, are, towels, these, you, they, the, so
+
+Topic 9: 9_price_quality_great_good
+Top Words: price, quality, great, good, value, brand, for, product, is, buy
+
+Topic 10: 10_they_these_good_for
+Top Words: they, these, good, for, use, them, very, work, price, great
+
+Topic 11: 11_napkins_napkin_great_these
+Top Words: napkins, napkin, great, these, they, are, for, but, dinner, of
+
+Topic 12: 12_paper_towels_best_we
+Top Words: paper, towels, best, we, price, good, towel, great, these, dust
+
+Topic 13: 13_absorbent_as_absorb_absorption
+Top Words: absorbent, as, absorb, absorption, they, brand, not, absorbing, but, other
+
+Topic 14: 14_baking_oven_it_food
+Top Words: baking, oven, it, food, for, this, fire, my, fryer, junk
+
+Topic 15: 15_thin_thinner_little_thick
+Top Words: thin, thinner, little, thick, shrinkflation, but, thickness, too, very, price
+
+Topic 16: 16_rolls_smaller_small_size
+Top Words: rolls, smaller, small, size, roll, big, super, again, are, they
+
+Topic 17: 17_kleenex_towels_to_multifold
+Top Words: kleenex, towels, to, multifold, and, are, that, of, as, the
+
+Topic 18: 18_towels_best_good_and
+Top Words: towels, best, good, and, use, pricey, towel, nice, strike, toweling
+
+Topic 19: 19_wax_waxed_it_paper
+Top Words: wax, waxed, it, paper, plastic, this, to, is, was, store
+
+Topic 20: 20_same_the_smaller_was
+Top Words: same, the, smaller, was, and, of, is, size, now, towels
+
+Topic 21: 21_ok_good_great_thank
+Top Words: ok, good, great, thank, its, none, fine, very, okay, overall
+
+Topic 22: 22_thin_paper_store_towels
+Top Words: thin, paper, store, towels, quality, same, not, thick, are, these
+
+Topic 23: 23_soft_absorbent_they_these
+Top Words: soft, absorbent, they, these, but, be, are, very, bathroom, in
+
+Topic 24: 24_wax_cardboard_roll_tube
+Top Words: wax, cardboard, roll, tube, paper, the, it, box, reynolds, core
+
+Topic 25: 25_boxes_box_empty_hand
+Top Words: boxes, box, empty, hand, six, of, was, sealed, one, packaging
+
+Topic 26: 26_smell_odor_stink_stored
+Top Words: smell, odor, stink, stored, smells, bad, my, in, know, her
+
+Topic 27: 27_boxes_empty_sealed_received
+Top Words: boxes, empty, sealed, received, box, only, was, order, paid, this
+
+Topic 28: 28_value_price_good_deal
+Top Words: value, price, good, deal, great, money, ur, gift, brought, beat
+
+Topic 29: 29_parchment_box_reynolds_it
+Top Words: parchment, box, reynolds, it, opened, was, paper, torn, itself, contact
+
+Topic 30: 30_sheet_sheets_you_thin
+Top Words: sheet, sheets, you, thin, paper, are, tear, presto, towels, these
+
+Topic 31: 31_absorbent_paper_towels_these
+Top Words: absorbent, paper, towels, these, they, bought, are, towel, before, spills
+
+Topic 32: 32_bounty_but_than_value
+Top Words: bounty, but, than, value, not, as, thin, inferior, price, its
+
+Topic 33: 33_expected_described_as_problems
+Top Words: expected, described, as, problems, soso, what, met, expectations, advertising, misleading
+
+Topic 34: 34_double_rolls_roll_single
+Top Words: double, rolls, roll, single, scott, are, tree, paper, if, these
+
+Topic 35: 35_viva_rolls_task_cloth
+Top Words: viva, rolls, task, cloth, towels, paper, like, roll, size, the
+
+Topic 36: 36_dispenser_pull_they_out
+Top Words: dispenser, pull, they, out, work, approach, handed, when, time, in
+
+Topic 37: 37_cut_cutter_scissors_blade
+Top Words: cut, cutter, scissors, blade, cutting, using, use, heating, fingers, it
+
+Topic 38: 38_product_good_excellent_great
+Top Words: product, good, excellent, great, stuff, super, old, strong, always, nice
+
+Topic 39: 39_works_great_picks_fun
+Top Words: works, great, picks, fun, work, purposes, it, supposed, perfectly, well
+
+Topic 40: 40_ply_thin_two_image
+Top Words: ply, thin, two, image, more, says, you, description, up, necessary
+
+Topic 41: 41_delivery_fast_described_prompt
+Top Words: delivery, fast, described, prompt, arrive, time, shipping, faithfully, effected, exceeds
+
+Topic 42: 42_double_rolls_mega_roll
+Top Words: double, rolls, mega, roll, triple, size, sheets, is, single, definition
+
+Topic 43: 43_envelope_box_package_dispense
+Top Words: envelope, box, package, dispense, it, bent, the, in, is, shipped
+
+Topic 44: 44_video_media_loaded_product
+Top Words: video, media, loaded, product, 00, guides, showcases, setup, compares, unpacked
+
+Topic 45: 45_buy_again_won_bulk
+Top Words: buy, again, won, bulk, buying, way, purchasehigh, praisecleans, buyed, here
+
+Topic 46: 46_paper_thin_is_papers
+Top Words: paper, thin, is, papers, worst, prefer, thicker, an, throught, category
+
+Topic 47: 47_cloth_canceled_ones_product
+Top Words: cloth, canceled, ones, product, purchase, at, this, it, unravelled, bounce
+
+Topic 48: 48_towel_rags_paper_market
+Top Words: towel, rags, paper, market, best, rinse, baby, wipes, kind, it
+
+Topic 49: 49_cleaning_they_job_are
+Top Words: cleaning, they, job, are, these, you, ones, buy, them, if
+
+Topic 50: 50_napkins_bounty_used_years
+Top Words: napkins, bounty, used, years, cheaper, napkin, them, have, all, we
+
+Topic 51: 51_use_activities_timevery_home
+Top Words: use, activities, timevery, home, popular, works, parties, stocking, kid, serve
+
+Topic 52: 52_tissues_boxes_empty_case
+Top Words: tissues, boxes, empty, case, was, sealed, inside, box, opened, one
+
+Topic 53: 53_kleenex_pounds_substitution_did
+Top Words: kleenex, pounds, substitution, did, spent, tork, was, costco, box, good
+
+Topic 54: 54_foil_aluminium_aluminum_this
+Top Words: foil, aluminium, aluminum, this, fryer, width, useless, air, better, than
+
+Topic 55: 55_bathroom_guest_bathrooms_prettier
+Top Words: bathroom, guest, bathrooms, prettier, great, salon, visit, church, elevate, 2nd
+
+Topic 56: 56_clean_cleans_it_easy
+Top Words: clean, cleans, it, easy, phones, portable, ports, charging, up, handling
+
+Topic 57: 57_size_massive_needed_summer
+Top Words: size, massive, needed, summer, wider, project, spring, smaller, late, small
+
+Topic 58: 58_sheets_sheet_we_waste
+Top Words: sheets, sheet, we, waste, annoying, money, 2024, august, this, brand
+

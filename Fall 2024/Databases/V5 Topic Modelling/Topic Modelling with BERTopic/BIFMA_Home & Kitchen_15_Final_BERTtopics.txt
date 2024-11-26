@@ -1,0 +1,12 @@
+Topic 0: 0_the_it_to_and
+Top Words: the, it, to, and, table, of, is, for, this, was
+
+Topic 1: 1_the_desk_and_it
+Top Words: the, desk, and, it, to, is, for, of, my, this
+
+Topic 2: 2_the_loaded_media_could
+Top Words: the, loaded, media, could, not, be, and, it, to, is
+
+Topic 3: 3_video_the_product_time
+Top Words: video, the, product, time, off, is, to, 00, liveliveremaining, compares
+

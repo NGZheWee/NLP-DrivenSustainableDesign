@@ -1,0 +1,9 @@
+Topic 0: 0_the_to_and_it
+Top Words: the, to, and, it, printer, this, is, of, for, hp
+
+Topic 1: 1_the_keyboard_it_and
+Top Words: the, keyboard, it, and, is, to, this, keys, of, for
+
+Topic 2: 2_shredder_the_was_is
+Top Words: shredder, the, was, is, it, great, of, delivery, this, and
+

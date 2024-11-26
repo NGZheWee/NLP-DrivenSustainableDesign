@@ -1,0 +1,6 @@
+Topic 0: 0_the_and_it_to
+Top Words: the, and, it, to, they, for, in, are, is, of
+
+Topic 1: 1_video_the_product_to
+Top Words: video, the, product, to, media, loaded, is, 00, they, off
+

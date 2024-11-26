@@ -1,0 +1,21 @@
+Topic 0: 0_the_to_and_it
+Top Words: the, to, and, it, printer, is, this, of, for, hp
+
+Topic 1: 1_the_highlighters_are_these
+Top Words: the, highlighters, are, these, colors, highlighter, pastel, they, and, for
+
+Topic 2: 2_red_pink_orange_these
+Top Words: red, pink, orange, these, are, not, color, highlighters, coral, more
+
+Topic 3: 3_great_gift_horse_fast
+Top Words: great, gift, horse, fast, product, work, love, nice, appreciative, church
+
+Topic 4: 4_to_of_and_in
+Top Words: to, of, and, in, the, product, this, not, it, our
+
+Topic 5: 5_works_great_needed_study
+Top Words: works, great, needed, study, well, prompt, what, charm, intended, described
+
+Topic 6: 6_easy_up_set_to
+Top Words: easy, up, set, to, an, it, account, setting, blah, very
+
