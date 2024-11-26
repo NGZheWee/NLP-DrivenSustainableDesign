@@ -1,6 +1,6 @@
 # NLP-Driven Sustainable Design
 
-This repository contains the code, datasets, and documentation for a research project conducted as part of the **Berkeley Engineering Design Scholars Program** and continued under the [**Co-Design Lab**](https://codesign.berkeley.edu/team/derrick-ng/) at UC Berkeley. The research leverages **Natural Language Processing (NLP)** techniques to analyze customer reviews and sustainability certifications, extracting insights to inform sustainable product design strategies.
+This repository contains the code, datasets, and documentation for a research project conducted as part of the **Berkeley Engineering Design Scholars Program** and continued under the **Co-Design Lab** at UC Berkeley. The research leverages **Natural Language Processing (NLP)** techniques to analyze customer reviews and sustainability certifications, extracting insights to inform sustainable product design strategies.
 
 ## Overview
 
