@@ -49,7 +49,7 @@ This work culminated in a **peer-reviewed publication** at *ASME IDETC-CIE 2025 
 1. Developed foundational scraping tools to collect Amazon product and review data tied to sustainability certifications.  
 2. Implemented initial NLP analyses including **ABSA (BERT & VADER)** and **topic modeling (LDA)**.  
 3. Presented preliminary results at the **Berkeley Engineering Design Scholars Final Poster Session**.  
-   [📄 View Poster](https://github.com/NGZheWee/NLP-DrivenSustainableDesign/blob/main/Summer%202024%20(Engineering%20Design%20Scholar%20Program)/NLP%20Driven%20Sustainable%20Design_Derrick.pdf)
+   [View Poster](https://github.com/NGZheWee/NLP-DrivenSustainableDesign/blob/main/Summer%202024%20(Engineering%20Design%20Scholar%20Program)/NLP%20Driven%20Sustainable%20Design_Derrick.pdf)
 
 ### **Fall 2024**
 1. Expanded the dataset to include product categories, features, and affordances for deeper cross-analysis.  
@@ -68,7 +68,7 @@ This work culminated in a **peer-reviewed publication** at *ASME IDETC-CIE 2025 
 **Goridkov, N., Ng, Z. W., Chen, F., & Goucher-Lambert, K. (2025).**  
 *Data-Driven Sustainable Design Opportunities from Automated User Insights.*  
 *Proceedings of the ASME IDETC-CIE 2025*, Anaheim, CA — Paper IDETC2025-169019.  
-[🔗 Read the Paper](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Data-Driven%20Sustainable%20Design%20Opportunities%20from%20Automated%20User%20Insights.pdf)
+[Read the Paper](https://codesign.berkeley.edu/papers/goridkov-reviews-idetc/)
 
 ---
 
